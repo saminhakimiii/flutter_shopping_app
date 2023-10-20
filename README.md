@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # flutter_shopping_app
+=======
+# my_flutter_weather_app
+>>>>>>> first commit
 
 A new Flutter project.
 

@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 name: flutter_shopping_app
+=======
+name: my_flutter_weather_app
+>>>>>>> first commit
 description: A new Flutter project.
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
@@ -32,6 +36,7 @@ dependencies:
     sdk: flutter
 
 
+<<<<<<< HEAD
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
 
@@ -57,12 +62,22 @@ dependencies:
 
   cupertino_icons: ^1.0.6
 
+=======
+  dio: ^5.3.3
+  intl: ^0.18.1
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.2
+>>>>>>> first commit
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
+<<<<<<< HEAD
   flutter_localizations: # Add this line
     sdk: flutter
+=======
+>>>>>>> first commit
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
@@ -84,8 +99,20 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
+<<<<<<< HEAD
     - assets/images/
   #   - images/a_dot_ham.jpeg
+=======
+    - images/nody.jpg
+    - images/icons8-cloud-lightning-80.png
+    - images/icons8-clouds-80 (3).png
+    - images/icons8-haze-80.png
+    - images/icons8-heavy-rain-80 (1).png
+    - images/icons8-light-snow-80.png
+    - images/icons8-rain-cloud-80.png
+    - images/icons8-sun-50.png
+    - images/icons8-windy-64.png
+>>>>>>> first commit
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
@@ -98,10 +125,17 @@ flutter:
   # "family" key with the font family name, and a "fonts" key with a
   # list giving the asset and other descriptors for the font. For
   # example:
+<<<<<<< HEAD
   fonts:
     - family: Vazir
       fonts:
         - asset: assets/fonts/vazir.ttf
+=======
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+>>>>>>> first commit
   #       - asset: fonts/Schyler-Italic.ttf
   #         style: italic
   #   - family: Trajan Pro

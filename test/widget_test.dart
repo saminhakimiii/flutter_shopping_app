@@ -8,7 +8,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
+<<<<<<< HEAD
 import 'package:flutter_shopping_app/main.dart';
+=======
+import 'package:my_flutter_weather_app/main.dart';
+>>>>>>> first commit
 
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {

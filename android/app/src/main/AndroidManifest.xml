@@ -1,6 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
+<<<<<<< HEAD
         android:label="flutter_shopping_app"
+=======
+        android:label="my_flutter_weather_app"
+>>>>>>> first commit
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
